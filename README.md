@@ -8,3 +8,4 @@ Project is dead and won't continue simply because after getting to the Common En
 
 Installation:
 Compatible only with 1.0.0 version of game. Put `0100983013C9A000` folder to `atmosphere/contents/`, play game.
+It is necessary to set `Font 1` in Settings -> Text to properly show dialogues.
